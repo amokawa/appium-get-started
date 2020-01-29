@@ -1,0 +1,21 @@
+{
+  "name": "appium-get-started",
+  "version": "1.0.0",
+  "description": "Implementing the Appium Get Started tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "appium",
+    "javascript",
+    "iOS"
+  ],
+  "author": "amokawa",
+  "license": "ISC",
+  "dependencies": {
+    "appium": "^1.16.0",
+    "appium-uiautomator2-driver": "^1.43.0",
+    "webdriverio": "^5.18.6"
+  }
+}
